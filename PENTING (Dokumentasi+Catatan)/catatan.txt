@@ -2,4 +2,5 @@ Catatan :
 - Cara penggunaan website terlampir di website
 - Role admin berupa hardcode
 - Lebih baik menggunakan migration jika ingin melakukan migration tambahan ke database, tetapi jika sekedar menjalankan website lebih baik mengimport db yang telah saya sediakan demi kemudahan
+- Jika menggunakan db yang saya sediakan, admin (username : admin@admin.com, password : admin123) user (4ldohadinata@gmail.com , aldo1234)
  Terimakasih
